@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Mainak Biswas
+### Hi there 👋, My name is Mainak
 #### Student 
 
 - 📫 How to reach me: Discord! ( Tag - MGP#9949 ) 
