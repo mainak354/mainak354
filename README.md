@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.discordapp.com/attachments/748488727445110796/1016091465287483412/Pink_Illustration_Hello_World_Programmer_LinkedIn_Article_Cover_Image_1.png)](https://discordapp.com/users/737995879956611183)
-# <img src="https://cdn.discordapp.com/attachments/748488727445110796/1016096160416546866/Green_Happy_Studying_Animated_Instagram_Post_1.gif" width="30px" height="30px"> Hi, I am Mainak! Great to see you here! 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+# <img src="https://emoji.discadia.com/emojis/aed5c690-651e-410f-a78d-908c51852f21.gif" width="30px" height="30px"> Hi, I am Mainak! Great to see you here! 
+<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://cdn.discordapp.com/attachments/748488727445110796/1016098207471771699/Untitled_design.gif)">
 
 - 🌱 I’m currently learning **Web Dev**
 
