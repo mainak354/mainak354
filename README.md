@@ -8,7 +8,7 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/737995879956611183) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_mega_leap) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/themainakbiswas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/the_mega_leap) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UC-MzKohr4Rj-XFfakgyDWaA) 
 
-## ⚡ Technologies
+## ⚡Technologies
 
 ### Language
 
@@ -47,9 +47,31 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
 <!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) -->
 
-## 📊 GitHub Stats:
+## 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mainak354&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mainak354&theme=tokyonight&hide_border=true)<br/>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-263%20hrs%2056%20mins-blue)
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               6 hrs 4 mins        ███████████████████████░░   94.05% 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.65% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
+
+🔥 Editors: 
+VS Code                  6 hrs 27 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  6 hrs 27 mins       █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 04/09/2022 19:35:16 UTC
+<!--END_SECTION:waka-->
 
 
 ### ✍️ Random Dev Quote
