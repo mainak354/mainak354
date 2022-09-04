@@ -1,5 +1,8 @@
-# Hi, I am Mainak! Great to see you here! <img src="https://emoji.discadia.com/emojis/aed5c690-651e-410f-a78d-908c51852f21.gif" width="30px" height="30px">
+[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://discordapp.com/users/737995879956611183)
+# <img src="https://emoji.discadia.com/emojis/aed5c690-651e-410f-a78d-908c51852f21.gif" width="30px" height="30px"> Hi, I am Mainak! Great to see you here! 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 🌱 I’m currently learning Web Dev<br>📫 How to reach me Add me on Discord (MGP#9949)<br>⚡ Fun fact It’s all 0’s and 1’s
+
 
 
 ## 🌐 Socials:
