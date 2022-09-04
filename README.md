@@ -75,7 +75,7 @@ Windows                  6 hrs 27 mins       ███████████�
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mainak354&icon=5&color=0)](https://visitcount.itsvg.in)
