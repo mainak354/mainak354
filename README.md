@@ -47,10 +47,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
 <!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) -->
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mainak354&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mainak354&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mainak354&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
