@@ -1,4 +1,4 @@
-# 💫 Hi, I am Mainak! Great to see you here! :
+# 💫 Hi, I am Mainak! Great to see you here! <img src="https://emoji.discadia.com/emojis/aed5c690-651e-410f-a78d-908c51852f21.gif" width="30px" height="30px">
 🌱 I’m currently learning Web Dev<br>📫 How to reach me Add me on Discord (MGP#9949)<br>⚡ Fun fact It’s all 0’s and 1’s
 
 
