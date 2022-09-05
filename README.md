@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/748488727445110796/1016091465287483412/Pink_Illustration_Hello_World_Programmer_LinkedIn_Article_Cover_Image_1.png)](https://discordapp.com/users/737995879956611183)
+[![MasterHead](https://raw.githubusercontent.com/mainak354/mainak354/157b029abd0d528e48e7815ca87caa8affa1a6d3/gitartwork.svg)](https://discordapp.com/users/737995879956611183)
 # <img src="https://emoji.discadia.com/emojis/aed5c690-651e-410f-a78d-908c51852f21.gif" width="30px" height="30px"> Hi, I am Mainak! Great to see you here! 
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/748488727445110796/1016100019037810758/Green_Happy_Studying_Animated_Instagram_Post_2.gif">
 
