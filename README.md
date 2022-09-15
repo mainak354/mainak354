@@ -85,4 +85,7 @@ Windows                  6 hrs 27 mins       ███████████�
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
  
 ---
-[![](https://visitcount.itsvg.in/api?id=mainak354&icon=5&color=0)](https://visitcount.itsvg.in)
+<br>
+<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=mainak354&label=Profile%20views&color=0e75b6&style=flat" alt="mainak354" />
+ </a>
+<br>
