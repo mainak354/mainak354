@@ -85,6 +85,4 @@ Windows                  6 hrs 27 mins       ███████████�
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
  
 ---
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=mgp354&label=Profile%20Views&pretty=true" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=mgp354&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
