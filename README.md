@@ -1,5 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/mainak354/mainak354/157b029abd0d528e48e7815ca87caa8affa1a6d3/gitartwork.svg)](https://discordapp.com/users/737995879956611183)
-# <img src="https://emoji.discadia.com/emojis/aed5c690-651e-410f-a78d-908c51852f21.gif" width="30px" height="30px"> Hi, I am Mainak! Great to see you here! 
+# <img src="https://emoji.discadia.com/emojis/aed5c690-651e-410f-a78d-908c51852f21.gif" width="30px" height="30px"> Hi, I am Jeet! Great to see you here! 
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/748488727445110796/1016100019037810758/Green_Happy_Studying_Animated_Instagram_Post_2.gif">
 
 
@@ -85,4 +85,4 @@ Windows                  6 hrs 27 mins       ███████████�
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
  
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mainak354&label=Profile%20views&color=0e75b6&style=flat" alt="mainak354" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetb512&label=Profile%20views&color=0e75b6&style=flat" alt="mainak354" /> </p>
